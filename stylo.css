@@ -1,0 +1,34 @@
+body {
+    background-color: purple;
+    font: 15pt Arial;
+}
+header {
+    font-family: 'Arial Black';
+    color: white;
+    text-align: center;
+}
+
+section {
+    font-family: 'Arial Black';
+    background-color: white;
+    padding: 15px;
+    margin: auto;
+    color: black;
+    box-shadow:5px 3px 10px black;
+    border-radius: 8px;
+    width: 450px;
+}
+
+#flista{
+    width: 200px;
+}
+
+div{
+    text-align: center;
+    padding: 8px;;
+}
+footer {
+    font-family: 'Arial Black';
+    color: white;
+    text-align: center;
+}
